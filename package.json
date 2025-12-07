@@ -1,0 +1,13 @@
+{
+  "name": "cottonballx",
+  "version": "1.1.4.1952",
+  "description": "Web server for CottonBall servers.",
+  "main": "cottonmain.min.js",
+  "type": "module",
+  "scripts": {
+    "start": "node cottonmain.min.js"
+  },
+  "author": "CottonBall by ABoringAI Inc",
+  "license": "MCPL",
+  "private": false
+}
