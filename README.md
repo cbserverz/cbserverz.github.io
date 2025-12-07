@@ -14,6 +14,10 @@
 8. Change the start command to "node cottonmain.min.js".
 9. Change instance type to your plan.
 10. Press "Deploy Web Service".
+11. Wait a few minutes for it to deploy then proceed to the next step.
+12. Open the <a href="https://getmultichat.github.io/">Chat Launcher</a>.
+13. Paste the server IP into the custom server bar and press Launch.
+14. Copy the web address and share them to your friends, or just use the server by yourself.
 
 ## Any questions?
 Please create a issue in the main repo <a href="https://github.com/cbserverz/cbserverz.github.io">here</a>.
